@@ -1,2 +1,4 @@
-base_de_donnees.csv
+train_data.csv
 .ipynb_checkpoints/
+outliers.PNG
+reg.pkl
